@@ -1,13 +1,23 @@
-<!-- YouTube Video Embed -->
-<p align="center" style="max-width: 480px; margin: auto;">
-  <a href="https://youtu.be/KWADhfyTITY" target="_blank" rel="noopener noreferrer" title="Watch on YouTube" style="text-decoration: none;">
+<details>
+  <summary>
     <img
-      src="https://img.youtube.com/vi/KWADhfyTITY/hqdefault.jpg"
-      alt="YouTube Video Thumbnail"
-      width="480"
-      style="border: 3px solid #6A0DAD; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); display: block; margin: auto;"
+      src="https://img.shields.io/badge/YouTube-4CAF50?style=for-the-badge&logo=youtube&logoColor=white"
+      alt="YouTube Badge"
+      style="cursor: pointer;"
     />
-  </a>
+  </summary>
+
+  <p>
+    <a href="https://www.youtube.com/watch?v=KWADhfyTITY" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://ytcards.demolab.com/?id=KWADhfyTITY&title=Fraud+Data+Video&lang=en&background_color=%230d1117&title_color=%236A0DAD&stats_color=%234CAF50&max_title_lines=2&width=250&border_radius=5"
+        alt="Fraud Data Video"
+        style="margin: 10px;"
+      />
+    </a>
+  </p>
+</details>
+
   <a href="https://youtu.be/KWADhfyTITY" target="_blank" rel="noopener noreferrer" 
      style="display: block; font-weight: 700; font-size: 18px; color: #6A0DAD; margin-top: 12px; text-decoration: none;">
 <img width="1906" height="882" alt="image" src="https://github.com/user-attachments/assets/58b7ad95-cd6f-4b21-831d-46c875954711" />
