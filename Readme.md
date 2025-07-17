@@ -52,7 +52,7 @@
         4.0: 46 - 55
         5.0: 56 - 65
     Gender: Gender of the customer
-        F: Female (done)
+        F: Female
         M: Male
     PostcodeOrigin: The postcode of origin/source.
     Merchant: The merchant's ID. 
